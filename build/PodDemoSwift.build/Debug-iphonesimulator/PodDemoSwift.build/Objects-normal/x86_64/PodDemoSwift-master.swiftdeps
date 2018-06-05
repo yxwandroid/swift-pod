@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "31a6009d8d032471a3715c63c5590631"
+build_time: [1528093714, 795156000]
+inputs:
+  "/Users/yangxuewu/Downloads/PodDemoSwift/PodDemoSwift/ViewController.swift": [1528092808, 0]
+  "/Users/yangxuewu/Downloads/PodDemoSwift/PodDemoSwift/ViewModelInterface.swift": [1527648811, 0]
+  "/Users/yangxuewu/Downloads/PodDemoSwift/PodDemoSwift/ViewModel.swift": [1527648811, 0]
+  "/Users/yangxuewu/Downloads/PodDemoSwift/PodDemoSwift/AppDelegate.swift": [1527830705, 0]

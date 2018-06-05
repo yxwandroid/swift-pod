@@ -1,0 +1,384 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewModel"
+provides-nominal:
+- "12PodDemoSwift9ViewModelC"
+provides-member:
+- ["12PodDemoSwift9ViewModelC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "<"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "NSObject"
+- "String"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "UIColor"
+- "ViewModel"
+- "ViewModelDelegate"
+- "ViewModelInterface"
+- !private "print"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "characters"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "UIColor"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "characters"]
+- ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "login"]
+- ["s7CVarArgP", "loginButtonEnable"]
+- !private ["s7CVarArgP", "password"]
+- ["s7CVarArgP", "passwordBorderColor"]
+- ["s7CVarArgP", "passwordDidChange"]
+- !private ["s7CVarArgP", "passwordValid"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "red"]
+- !private ["s7CVarArgP", "userName"]
+- ["s7CVarArgP", "userNameBorderColor"]
+- ["s7CVarArgP", "userNameDidChange"]
+- !private ["s7CVarArgP", "usernameValid"]
+- !private ["s10CollectionP", "characters"]
+- !private ["s10CollectionP", "count"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "characters"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "characters"]
+- ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "login"]
+- ["s28CustomDebugStringConvertibleP", "loginButtonEnable"]
+- !private ["s28CustomDebugStringConvertibleP", "password"]
+- ["s28CustomDebugStringConvertibleP", "passwordBorderColor"]
+- ["s28CustomDebugStringConvertibleP", "passwordDidChange"]
+- !private ["s28CustomDebugStringConvertibleP", "passwordValid"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "red"]
+- !private ["s28CustomDebugStringConvertibleP", "userName"]
+- ["s28CustomDebugStringConvertibleP", "userNameBorderColor"]
+- ["s28CustomDebugStringConvertibleP", "userNameDidChange"]
+- !private ["s28CustomDebugStringConvertibleP", "usernameValid"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "characters"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "characters"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "characters"]
+- ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "login"]
+- ["s23CustomStringConvertibleP", "loginButtonEnable"]
+- !private ["s23CustomStringConvertibleP", "password"]
+- ["s23CustomStringConvertibleP", "passwordBorderColor"]
+- ["s23CustomStringConvertibleP", "passwordDidChange"]
+- !private ["s23CustomStringConvertibleP", "passwordValid"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "red"]
+- !private ["s23CustomStringConvertibleP", "userName"]
+- ["s23CustomStringConvertibleP", "userNameBorderColor"]
+- ["s23CustomStringConvertibleP", "userNameDidChange"]
+- !private ["s23CustomStringConvertibleP", "usernameValid"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "characters"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "characters"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "UIColor"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "black"]
+- !private ["s9EquatableP", "characters"]
+- ["s9EquatableP", "delegate"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", "login"]
+- ["s9EquatableP", "loginButtonEnable"]
+- !private ["s9EquatableP", "password"]
+- ["s9EquatableP", "passwordBorderColor"]
+- ["s9EquatableP", "passwordDidChange"]
+- !private ["s9EquatableP", "passwordValid"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "red"]
+- !private ["s9EquatableP", "userName"]
+- ["s9EquatableP", "userNameBorderColor"]
+- ["s9EquatableP", "userNameDidChange"]
+- !private ["s9EquatableP", "usernameValid"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "characters"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "characters"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "characters"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "UIColor"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "black"]
+- !private ["s8HashableP", "characters"]
+- ["s8HashableP", "delegate"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", "login"]
+- ["s8HashableP", "loginButtonEnable"]
+- !private ["s8HashableP", "password"]
+- ["s8HashableP", "passwordBorderColor"]
+- ["s8HashableP", "passwordDidChange"]
+- !private ["s8HashableP", "passwordValid"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "red"]
+- !private ["s8HashableP", "userName"]
+- ["s8HashableP", "userNameBorderColor"]
+- ["s8HashableP", "userNameDidChange"]
+- !private ["s8HashableP", "usernameValid"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "characters"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "characters"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "characters"]
+- !private ["So8NSCodingP", "red"]
+- !private ["So9NSCopyingP", "black"]
+- !private ["So9NSCopyingP", "characters"]
+- !private ["So9NSCopyingP", "red"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- !private ["So21NSItemProviderReadingP", "characters"]
+- !private ["So21NSItemProviderReadingP", "red"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- !private ["So21NSItemProviderWritingP", "characters"]
+- !private ["So21NSItemProviderWritingP", "red"]
+- !private ["So16NSMutableCopyingP", "characters"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "ViewModelDelegate"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "characters"]
+- ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "login"]
+- ["So8NSObjectC", "loginButtonEnable"]
+- ["So8NSObjectC", "password"]
+- ["So8NSObjectC", "passwordBorderColor"]
+- ["So8NSObjectC", "passwordDidChange"]
+- ["So8NSObjectC", "passwordValid"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "red"]
+- ["So8NSObjectC", "userName"]
+- ["So8NSObjectC", "userNameBorderColor"]
+- ["So8NSObjectC", "userNameDidChange"]
+- ["So8NSObjectC", "usernameValid"]
+- !private ["So16NSObjectProtocolP", "UIColor"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "black"]
+- !private ["So16NSObjectProtocolP", "characters"]
+- ["So16NSObjectProtocolP", "delegate"]
+- !private ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", "login"]
+- ["So16NSObjectProtocolP", "loginButtonEnable"]
+- !private ["So16NSObjectProtocolP", "password"]
+- ["So16NSObjectProtocolP", "passwordBorderColor"]
+- ["So16NSObjectProtocolP", "passwordDidChange"]
+- !private ["So16NSObjectProtocolP", "passwordValid"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "red"]
+- !private ["So16NSObjectProtocolP", "userName"]
+- ["So16NSObjectProtocolP", "userNameBorderColor"]
+- ["So16NSObjectProtocolP", "userNameDidChange"]
+- !private ["So16NSObjectProtocolP", "usernameValid"]
+- !private ["So14NSSecureCodingP", "black"]
+- !private ["So14NSSecureCodingP", "characters"]
+- !private ["So14NSSecureCodingP", "red"]
+- !private ["So8NSStringC", "characters"]
+- !private ["s26RangeReplaceableCollectionP", "characters"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "characters"]
+- !private ["s8SequenceP", "count"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "characters"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "characters"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "characters"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "characters"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So7UIColorC", "black"]
+- !private ["So7UIColorC", "red"]
+- !private ["9Alamofire14URLConvertibleP", "characters"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- ["12PodDemoSwift9ViewModelC", "Bool"]
+- ["12PodDemoSwift9ViewModelC", "String"]
+- ["12PodDemoSwift9ViewModelC", "UIColor"]
+- ["12PodDemoSwift9ViewModelC", "ViewModelDelegate"]
+- ["12PodDemoSwift9ViewModelC", "deinit"]
+- ["12PodDemoSwift9ViewModelC", "delegate"]
+- ["12PodDemoSwift9ViewModelC", "init"]
+- ["12PodDemoSwift9ViewModelC", "login"]
+- ["12PodDemoSwift9ViewModelC", "loginButtonEnable"]
+- !private ["12PodDemoSwift9ViewModelC", "password"]
+- ["12PodDemoSwift9ViewModelC", "passwordBorderColor"]
+- ["12PodDemoSwift9ViewModelC", "passwordDidChange"]
+- !private ["12PodDemoSwift9ViewModelC", "passwordValid"]
+- !private ["12PodDemoSwift9ViewModelC", "print"]
+- !private ["12PodDemoSwift9ViewModelC", "userName"]
+- ["12PodDemoSwift9ViewModelC", "userNameBorderColor"]
+- ["12PodDemoSwift9ViewModelC", "userNameDidChange"]
+- !private ["12PodDemoSwift9ViewModelC", "usernameValid"]
+- !private ["12PodDemoSwift17ViewModelDelegateP", "moveToHomeScreen"]
+- !private ["12PodDemoSwift17ViewModelDelegateP", "reloadViews"]
+- !private ["12PodDemoSwift18ViewModelInterfaceP", "UIColor"]
+- ["12PodDemoSwift18ViewModelInterfaceP", ""]
+- ["12PodDemoSwift18ViewModelInterfaceP", "delegate"]
+- ["12PodDemoSwift18ViewModelInterfaceP", "login"]
+- ["12PodDemoSwift18ViewModelInterfaceP", "loginButtonEnable"]
+- !private ["12PodDemoSwift18ViewModelInterfaceP", "password"]
+- ["12PodDemoSwift18ViewModelInterfaceP", "passwordBorderColor"]
+- ["12PodDemoSwift18ViewModelInterfaceP", "passwordDidChange"]
+- !private ["12PodDemoSwift18ViewModelInterfaceP", "passwordValid"]
+- !private ["12PodDemoSwift18ViewModelInterfaceP", "print"]
+- !private ["12PodDemoSwift18ViewModelInterfaceP", "userName"]
+- ["12PodDemoSwift18ViewModelInterfaceP", "userNameBorderColor"]
+- ["12PodDemoSwift18ViewModelInterfaceP", "userNameDidChange"]
+- !private ["12PodDemoSwift18ViewModelInterfaceP", "usernameValid"]
+- !private ["SS14_CharacterViewV", "count"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "characters"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "characters"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "characters"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "characters"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- !private ["s26_ExpressibleByColorLiteralP", "red"]
+- !private ["s33_ExpressibleByStringInterpolationP", "characters"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "characters"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "characters"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "login"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "loginButtonEnable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "password"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "passwordBorderColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "passwordDidChange"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "passwordValid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "red"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userName"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userNameBorderColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userNameDidChange"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "usernameValid"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "characters"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "characters"]
+- !private ["s16_SwiftStringViewP", "count"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So7UIColorC"
+- !private "9Alamofire14URLConvertibleP"
+- "12PodDemoSwift9ViewModelC"
+- !private "12PodDemoSwift17ViewModelDelegateP"
+- "12PodDemoSwift18ViewModelInterfaceP"
+- !private "SS14_CharacterViewV"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/yangxuewu/Downloads/PodDemoSwift/build/Debug-iphonesimulator/podlib/podlib.framework/Modules/podlib.swiftmodule/x86_64.swiftmodule"
+- "/Users/yangxuewu/Downloads/PodDemoSwift/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangxuewu/Downloads/PodDemoSwift/build/Debug-iphonesimulator/podlib/podlib.framework/Headers/podlib-umbrella.h"
+- "/Users/yangxuewu/Downloads/PodDemoSwift/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/yangxuewu/Downloads/PodDemoSwift/build/Debug-iphonesimulator/podlib/podlib.framework/Headers/podlib-Swift.h"
+- "/Users/yangxuewu/Downloads/PodDemoSwift/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/yangxuewu/Downloads/PodDemoSwift/build/Debug-iphonesimulator/podlib/podlib.framework/Modules/module.modulemap"
+- "/Users/yangxuewu/Downloads/PodDemoSwift/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "4e3c759e0f7d9ed873253880d607f64b"

@@ -1,0 +1,10 @@
+framework module podlib {
+  umbrella header "podlib-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module podlib.__Swift {
+    exclude header "podlib-Swift.h"
+}

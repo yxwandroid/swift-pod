@@ -1,0 +1,39 @@
+{
+  "name": "podlib",
+  "version": "0.0.1",
+  "summary": "Swift demo podlib.",
+  "description": "Swift demo podlib",
+  "homepage": "http://wilson/podlib",
+  "license": "MIT",
+  "authors": {
+    "wilson": "yxw_android@163.com"
+  },
+  "source": {
+    "git": "http://wilson/podlib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/*.swift"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true,
+  "resource_bundles": {
+    "podlib": "Assets/*.{png,jpg,xib,plist,xcassets}"
+  },
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.7"
+    ]
+  },
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

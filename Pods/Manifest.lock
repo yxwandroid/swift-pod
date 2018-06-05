@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.7.2)
+  - podlib (0.0.1):
+    - Alamofire (~> 4.7)
+
+DEPENDENCIES:
+  - podlib (from `./podlib/`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  podlib:
+    :path: "./podlib/"
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  podlib: 2871943e594c9c92e6e6e587bec2faf69d82569a
+
+PODFILE CHECKSUM: 2d1b67e1e6ceacc137e85106bc5305ce01175d13
+
+COCOAPODS: 1.5.3
