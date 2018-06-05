@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "268d6b08b2f1206c3c87ce19e508acba"
-build_time: [1528096972, 487517000]
-inputs:
-  "/Users/yangxuewu/Downloads/PodDemoSwift/podlib/Classes/Person.swift": [1527835333, 0]
-  "/Users/yangxuewu/Downloads/PodDemoSwift/podlib/Classes/SencodViewController.swift": !private [1528096968, 0]

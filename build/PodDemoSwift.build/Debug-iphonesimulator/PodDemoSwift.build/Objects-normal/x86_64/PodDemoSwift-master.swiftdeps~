@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "4a1c02f49b6fd53fcdb248cf2c10c271"
-build_time: [1528073815, 641563000]
-inputs:
-  "/Users/yangxuewu/Downloads/PodDemoSwift/PodDemoSwift/ViewController.swift": [1528014605, 0]
-  "/Users/yangxuewu/Downloads/PodDemoSwift/PodDemoSwift/AppDelegate.swift": [1527830705, 0]
